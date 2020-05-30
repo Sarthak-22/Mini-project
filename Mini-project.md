@@ -46,11 +46,12 @@ __COMPONENTS__ | __SOURCE__ | __AMOUNT__
 ---------------|------------|-----------
 __Arduino UNO__ |[Robu.in](https://robu.in/product/arduino-uno-r3-ch340g-atmega328p-devlopment-board/?gclid=CjwKCAjw5cL2BRASEiwAENqAPm1363y6PHruwR4HZrCDOHBhFJybFAob8DRmG8mG2TuNo6A76F-weBoCHaMQAvD_BwE), [Amazon.in](https://www.amazon.in/Uno-ATmega328P-Compatible-ATMEGA16U2-Arduino/dp/B015C7SC5U/ref=sr_1_2?crid=CCF3GHU8HMD7&dchild=1&keywords=arduino+uno&qid=1590762741&sprefix=Arduino%2Caps%2C253&sr=8-2)| INR 300-350 (possible tax and delivery service included)
  __12V Solenoid Lock__ |[Amazon.in](https://www.amazon.in/Electronicspices-Electric-Assembly-Electronic-Container/dp/B084T32RWH/ref=sr_1_4?crid=3ALVDR8R5X8HX&dchild=1&keywords=solenoid+lock+12v&qid=1590762853&sprefix=Solenoid+lock%2Caps%2C271&sr=8-4)| INR 400-500
-__Piezo sensor__ |[Amazon.in](https://www.amazon.in/OLatus-OL-SENSOR-PIEZO-DISC-Piezoelectric-Sensor-Transducer/dp/B075VYNP3F/ref=sr_1_1?crid=QO7V9G06NXQ6&dchild=1&keywords=piezo+sensor&qid=1590763239&sprefix=Piezo+se%2Caps%2C254&sr=8-1)| INR 250-300
+__Piezo sensor__ |[Amazon.in](https://www.amazon.in/Electronic-Ceramic-Elements-Sounder-Piezoelectric/dp/B084T3W148/ref=sr_1_4?dchild=1&keywords=piezo+sensor&qid=1590816005&sr=8-4)| INR 60-70
 __Relay Module__ |[Amazon.in](https://www.amazon.in/REES52-5VRELAY-Channel-Arduino-Raspberry/dp/B01HXJDBII/ref=sr_1_1?crid=2AN95LXQS3X1T&dchild=1&keywords=relay+module+for+arduino+uno&qid=1590763629&sprefix=Relay+Module%2Caps%2C254&sr=8-1), [Robu.in](https://robu.in/product/1-channel-isolated-5v-relay-module-opto-coupler-for-arduino-pic-avr-dsp-arm/)| INR 100-150
 __6-12V Battery__ |[Amazon.in](https://www.amazon.in/CREATOR-6F22-VOLTS-Power-Batteries/dp/B01N5AJ7JH/ref=sr_1_17?dchild=1&keywords=9V+battery&qid=1590814675&sr=8-17), [Robu.in](https://robu.in/product/9v-original-hw-high-quality-battery-5pcs/https://robu.in/product/9v-original-hw-high-quality-battery-5pcs/)| INR 100-150 (pack of 5 batteries)
 __LED__ |Already available in plenty at home| INR 0
 __Resistors__ |[Robu.in](https://robu.in/?category=&s=resistors&search_posttype=product) | INR 50-60 (A pack of 40 resistors of any specification)
 __Jumper Wires__ |A pack of 35 wires already available at home| INR 0
+__TOTAL__|| INR 1000-1100
 
     
