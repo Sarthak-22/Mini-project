@@ -17,7 +17,7 @@
 
 ### Ideation : 
 
-Knocking on the door => Vibration converted to electrical signals by __Piezo sensor__ => Signals sent to Arduino Microcntroller => Output signals sent to relay module => LED lights green on the correct knock pattern. 
+Knocking on the door => Vibration converted to electrical signals by __Piezo sensor__ => Signals sent to Arduino Microcontroller => Output signals sent to relay module => LED lights green on the correct knock pattern. 
 
 * First of all, the whole circuit/system would be fitted on thick sheet of cardboard/wood with the help of screws or even cellotape can do the job. The piezo sensor would be tightly fitted onto the board so that it can sense the vibration.
 
