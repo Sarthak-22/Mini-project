@@ -52,6 +52,6 @@ __6-12V Battery__ |[Amazon.in](https://www.amazon.in/CREATOR-6F22-VOLTS-Power-Ba
 __LED__ |Already available in plenty at home| INR 0
 __Resistors__ |[Robu.in](https://robu.in/?category=&s=resistors&search_posttype=product) | INR 50-60 (A pack of 40 resistors of any specification)
 __Jumper Wires__ |A pack of 35 wires already available at home| INR 0
-__TOTAL__|| INR 1000-1100
+__TOTAL__| - | INR 1000-1100
 
     
