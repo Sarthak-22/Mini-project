@@ -1,7 +1,7 @@
 ## SECRET KNOCK DETECTING DOOR LOCK
 
 ### Problem Statement :-
-* Designing a circuit that recognises a secret unique knock on the door to open the electrical door lock.
+* Designing a circuit that recognises a secret unique knock on the door to open an electrical door lock.
 
 ### Components required :-
 
